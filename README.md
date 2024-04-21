@@ -13,3 +13,7 @@ To use the 4bit calculator:
       
 3. after open the downlaoded file you will see this interface:
 ![interface](Picture/Interface.png)
+
+Now let’s understand the introduction bellow and the interface of the logic circuit:
+![Intro1](Picture/intro1.png)
+![intro2](Picture/intro2.png)
